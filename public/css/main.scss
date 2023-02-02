@@ -1,5 +1,217 @@
+
+$red:  #ff0000;
+$blue: #000099;
+
+@mixin flex($flex-direction: row,
+ $justify-content: space-between){
+    display: flex;
+    flex-direction: $flex-direction;
+    justify-content: $justify-content;
+
+}
+
 html, body{
 box-sizing: border-box;
 height: 100vh;
-background-image: linear-gradient(0deg, #33ccff 0%, #ccffff 100%);
+background-image: linear-gradient(0deg, #33ccff 0%,
+ #ccffff 100%);
+ background-color: whitesmoke;
+}
+
+.content{
+    .ticket{
+        width: 288px;
+        font-size: 0.7em;
+        height: 192px;
+         margin: auto;
+        display: block;
+        border: 1px solid black;
+        overflow: hidden;
+
+        .header{
+            @include flex();
+
+            .food{
+                width: 20px;
+                height: 20px;
+            }
+
+            .flag{
+                height: 10px;
+                margin-top: 0;
+                width: 50%;
+            }
+        }
+
+        .main{
+            display: block;
+            text-align: center;
+
+            .top-text{
+                text-decoration: underline;
+                width: 80%;
+
+                margin: -10px auto;
+                font-weight: bold;
+                font-family: Tahoma,Verdana,Segoe,sans-serif;
+
+                span{
+                    color: $red;
+                }
+            }
+
+            .text{
+                font-family: Tahoma,Verdana,Segoe,sans-serif;
+                font-weight: 300;
+                    strong{
+                        font-weight: bold;
+                        color: black;
+                    }
+            }
+
+            .row{
+                @include flex();
+
+                img{
+                    width: 15px;
+                    height: 15px;
+                    margin: 0 auto auto 10px;
+                }
+
+                .box{
+                    height: 15px;
+                    width: 80%;
+                  //  padding-top: 5px;
+                    left: 0;
+                    margin: auto -15px auto auto;
+                    color: $red;
+                    font-size: 0.9em;
+                    text-align: center;
+                    font-weight: bold;
+                    border-radius: 15px;
+                    background-image: linear-gradient(180deg, #33ccff 0%, #c2e9fb 100%);
+                    border: 1px solid #000000;
+                }
+            }
+
+            .infos{
+                width: 100%;
+                height: 10px;
+                background-color: #ccffff;
+                border: 1px solid #000000;
+                @include flex(row, baseline);
+                margin: 10px auto 0 auto;
+                padding-top: 2px;
+                padding-bottom: 2px;
+
+                    .info{
+                        @include flex();
+                        margin: auto 10px 2px 15px;
+
+                        .blue{
+                            margin-left: 20px;
+                            color: $blue;
+                            font-weight: bold;
+                            font-size: 0.7em;
+                        }
+                    }
+            }
+
+            .bottom{
+                background-image: linear-gradient(180deg, #33ccff 0%, #c2e9fb 100%);
+                padding-top: 10px;
+
+                .details{
+                    width: 90%;
+                    margin:auto;
+                    @include flex(row, space-around);
+
+
+                    .qr, img{
+                        height: 25px;
+                        height: 25px;
+                        margin-top: -8px;
+                    }
+
+                    &__main{
+                    display: block;
+                        width: 50%;
+                        margin: auto;
+                        height: 30px;
+                        border: 1px solid black;
+                        background-color: #ccffff;
+                        padding-top: 1px;
+                        font-size: 0.7em;
+
+
+                        p{
+                            font-style: italic;
+                            width: 90%;
+                            margin: 1px auto;
+                        }
+
+                            .strong{
+                                font-weight: bold;
+                                font-size: 1.1em;
+                                font-style: normal;
+                            }
+
+                            .thin{
+                                font-weight: 300;
+                            }
+                    }
+                }
+
+                .black{
+                    background-image: linear-gradient(180deg, #33ccff 0%, #c2e9fb 100%);
+                    text-align: center;
+                    padding-bottom: 5px;
+                    margin: -5px auto;
+
+                    p{
+                        font-weight: bold;
+                        font-size: 0.7em;
+                        margin-bottom: 2px;
+                    }
+                }
+            }
+        }
+    }
+
+    .form{
+        width: 340px;
+        display: block;
+        margin: 20px auto;
+        border: 1px solid black;
+        border-radius: 10px;
+        text-align: center;
+        padding-bottom: 10px;
+
+        img{
+            width: 40px;
+            height: 40px;
+            margin: 10px auto;
+        }
+
+        h1{
+            font-size: 1.6em;
+        }
+
+        label{
+            margin: 15px auto;
+            text-align: left;
+            padding-left: 0;
+        }
+    }
+
+    .dashboard{
+        .tickets{
+            @include flex();
+            flex-wrap: wrap;
+            justify-content: space-between;
+            width: 95%;
+            margin: auto;
+
+        }
+    }
 }

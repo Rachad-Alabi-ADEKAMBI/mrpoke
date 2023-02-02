@@ -2,4 +2,179 @@ html, body {
   box-sizing: border-box;
   height: 100vh;
   background-image: linear-gradient(0deg, #33ccff 0%, #ccffff 100%);
+  background-color: whitesmoke;
+}
+
+.content .ticket {
+  width: 288px;
+  font-size: 0.7em;
+  height: 192px;
+  margin: auto;
+  display: block;
+  border: 1px solid black;
+  overflow: hidden;
+}
+.content .ticket .header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.content .ticket .header .food {
+  width: 20px;
+  height: 20px;
+}
+.content .ticket .header .flag {
+  height: 10px;
+  margin-top: 0;
+  width: 50%;
+}
+.content .ticket .main {
+  display: block;
+  text-align: center;
+}
+.content .ticket .main .top-text {
+  text-decoration: underline;
+  width: 80%;
+  margin: -10px auto;
+  font-weight: bold;
+  font-family: Tahoma, Verdana, Segoe, sans-serif;
+}
+.content .ticket .main .top-text span {
+  color: #ff0000;
+}
+.content .ticket .main .text {
+  font-family: Tahoma, Verdana, Segoe, sans-serif;
+  font-weight: 300;
+}
+.content .ticket .main .text strong {
+  font-weight: bold;
+  color: black;
+}
+.content .ticket .main .row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.content .ticket .main .row img {
+  width: 15px;
+  height: 15px;
+  margin: 0 auto auto 10px;
+}
+.content .ticket .main .row .box {
+  height: 15px;
+  width: 80%;
+  left: 0;
+  margin: auto -15px auto auto;
+  color: #ff0000;
+  font-size: 0.9em;
+  text-align: center;
+  font-weight: bold;
+  border-radius: 15px;
+  background-image: linear-gradient(180deg, #33ccff 0%, #c2e9fb 100%);
+  border: 1px solid #000000;
+}
+.content .ticket .main .infos {
+  width: 100%;
+  height: 10px;
+  background-color: #ccffff;
+  border: 1px solid #000000;
+  display: flex;
+  flex-direction: row;
+  justify-content: baseline;
+  margin: 10px auto 0 auto;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+.content .ticket .main .infos .info {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: auto 10px 2px 15px;
+}
+.content .ticket .main .infos .info .blue {
+  margin-left: 20px;
+  color: #000099;
+  font-weight: bold;
+  font-size: 0.7em;
+}
+.content .ticket .main .bottom {
+  background-image: linear-gradient(180deg, #33ccff 0%, #c2e9fb 100%);
+  padding-top: 10px;
+}
+.content .ticket .main .bottom .details {
+  width: 90%;
+  margin: auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.content .ticket .main .bottom .details .qr, .content .ticket .main .bottom .details img {
+  height: 25px;
+  height: 25px;
+  margin-top: -8px;
+}
+.content .ticket .main .bottom .details__main {
+  display: block;
+  width: 50%;
+  margin: auto;
+  height: 30px;
+  border: 1px solid black;
+  background-color: #ccffff;
+  padding-top: 1px;
+  font-size: 0.7em;
+}
+.content .ticket .main .bottom .details__main p {
+  font-style: italic;
+  width: 90%;
+  margin: 1px auto;
+}
+.content .ticket .main .bottom .details__main .strong {
+  font-weight: bold;
+  font-size: 1.1em;
+  font-style: normal;
+}
+.content .ticket .main .bottom .details__main .thin {
+  font-weight: 300;
+}
+.content .ticket .main .bottom .black {
+  background-image: linear-gradient(180deg, #33ccff 0%, #c2e9fb 100%);
+  text-align: center;
+  padding-bottom: 5px;
+  margin: -5px auto;
+}
+.content .ticket .main .bottom .black p {
+  font-weight: bold;
+  font-size: 0.7em;
+  margin-bottom: 2px;
+}
+.content .form {
+  width: 340px;
+  display: block;
+  margin: 20px auto;
+  border: 1px solid black;
+  border-radius: 10px;
+  text-align: center;
+  padding-bottom: 10px;
+}
+.content .form img {
+  width: 40px;
+  height: 40px;
+  margin: 10px auto;
+}
+.content .form h1 {
+  font-size: 1.6em;
+}
+.content .form label {
+  margin: 15px auto;
+  text-align: left;
+  padding-left: 0;
+}
+.content .dashboard .tickets {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  width: 95%;
+  margin: auto;
 }/*# sourceMappingURL=main.css.map */
