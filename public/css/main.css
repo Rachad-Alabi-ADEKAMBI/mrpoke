@@ -1,7 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap");
 html, body {
   box-sizing: border-box;
-  min-height: 100vh;
-  background-image: linear-gradient(0deg, #33ccff 0%, #ccffff 100%);
+  padding: 0;
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+}
+
+.btn-primary {
+  background-color: #226b7f;
+}
+
+.text {
+  line-height: 2em;
+}
+
+.text-black {
+  color: #000000;
+}
+
+.text-grey {
+  color: grey;
 }
 
 a {
@@ -17,6 +35,7 @@ a {
   display: block;
   border: 1px solid black;
   overflow: hidden;
+  background-image: linear-gradient(0deg, #33ccff 0%, #ccffff 100%);
 }
 .content .ticket .header {
   display: flex;
@@ -197,4 +216,96 @@ a {
 }
 .content .dashboard .pages .pagination {
   margin: auto;
+}
+.content .hero {
+  height: 100vh;
+  display: block;
+  background: rgb(2, 0, 36);
+  background: url("../img/hero1.jpg"), linear-gradient(90deg, rgb(2, 0, 36) 0%, rgb(70, 188, 222) 35%, rgb(0, 212, 255) 100%);
+  padding-top: 40vh;
+}
+.content .hero h1 {
+  color: purple;
+  font-weight: 700;
+  font-size: 4em;
+}
+.content .game {
+  height: 150px;
+  width: 100%;
+  margin: 10px auto;
+  padding-top: 30px;
+  background-color: rgb(142, 212, 226);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.content .game .text {
+  font-weight: bold;
+}
+.content .container .services .service {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 15px auto;
+}
+.content .container .services .service__img {
+  width: 150px;
+}
+.content .container .services .service__img img {
+  width: 150px;
+  height: 100px;
+}
+.content .container .services .service__text {
+  width: 70%;
+  text-align: left;
+  padding-top: 5px;
+  padding-left: 0;
+}
+.content .container .services .service__text span {
+  font-weight: bold;
+  font-size: 2em;
+}
+.content .container .services .image img {
+  width: 90%;
+  height: 70%;
+  border-radius: 10px;
+  margin: 10px auto;
+}
+.content .container .ads {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.content .container .ads .box {
+  margin: 1px;
+  width: 280px;
+  margin: auto;
+  cursor: pointer;
+}
+.content .container .ads .box img {
+  width: 250px;
+}
+.content .container .book__form {
+  text-align: center;
+}
+.content .container .book__form p {
+  margin: 30% auto 0 auto;
+}
+.content .container .book__form .btn {
+  margin: 10px auto;
+}
+.content .container .book .map {
+  background-color: black;
+  height: 350px;
+  width: 90%;
+  margin: auto;
+}
+
+.footer {
+  background-color: black;
+  height: auto;
+  margin: 15px auto 0 auto;
+  padding-top: 40px;
+  padding-bottom: 20px;
+  color: white;
 }/*# sourceMappingURL=main.css.map */
