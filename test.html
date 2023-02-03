@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+  </head>
+  <body>
+    <div id="app">
+      <div v-for="ticket in displayedTickets">
+        {{ ticket }}
+      </div>
+      <button @click="prevPage">Précédent</button>
+      <button @click="nextPage">Suivant</button>
+    </div>
+    <script>
+      const app = new Vue({
+        el: '#app',
+        data: {
+          tickets: [],
+          perPage: 5,
+          currentPage: 1,
+        },
+        computed: {
+          displayedTickets() {
+            const start = (this.currentPage - 1) * this.perPage;
+            const end = start + this.perPage;
+            return this.tickets.slice(start, end);
+          },
+        },
+        mounted() {
+          axios
+            .get('http://127.0.0.1/mrpoke/api/tickets')
+            .then(response => {
+              this.tickets = response.data;
+            })
+            .catch(error => {
+              console.error(error);
+            });
+        },
+        methods: {
+          prevPage() {
+            if (this.currentPage > 1) {
+              this.currentPage--;
+            }
+          },
+          nextPage() {
+            if (this.currentPage < this.totalPages) {
+              this.currentPage++;
+            }
+          },
+        },
+      });
+    </script>
+  </body>
+</html>
