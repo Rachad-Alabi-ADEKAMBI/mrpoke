@@ -95,7 +95,7 @@ if ($used) { ?>
             }
         },
         mounted: function() {
-            this.displayDashboard();
+            // this.displayDashboard();
         },
 
         methods: {

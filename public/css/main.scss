@@ -17,6 +17,7 @@ box-sizing: border-box;
 padding: 0;
 margin: 0;
 font-family: 'Poppins', sans-serif;
+background-color: whitesmoke;
 
 }
 
@@ -24,34 +25,62 @@ font-family: 'Poppins', sans-serif;
     background-color: $main;
 }
 
+.btn:hover{
+    background-image: linear-gradient(0deg, #3daace 0%,
+    #ccffff 100%);
+    border-color:linear-gradient(0deg, #3daace 0%,
+    #ccffff 100%);
+    color: black;
+}
+
 .text{
     line-height: 2em;
+    text-align: justify;
 }
 
 .text-black{
     color: #000000;
+
 }
 
 .text-grey{
     color: grey;
 }
 
-a{
+.text-white{
+    color: rgb(189, 196, 209);
+}
+
+.bold{
+    font-size: 1.6em;
+    font-weight: 800;
+}
+a, a:hover{
     color: black;
     text-decoration: none;
 }
 
+h2{
+    color: $main;
+}
+
 .content{
+    min-height: 90vh;
+    background-image: linear-gradient(0deg, #33ccff 0%,
+    #ccffff 100%);
+
+
     .ticket{
         width: 288px;
         font-size: 0.7em;
+        position: relative;
         height: 192px;
          margin: auto;
         display: block;
         border: 1px solid black;
         overflow: hidden;
         background-image: linear-gradient(0deg, #33ccff 0%,
- #ccffff 100%);
+         #ccffff 100%);
 
         .header{
             @include flex();
@@ -86,8 +115,10 @@ a{
             }
 
             .text{
+                margin: 7px auto;
                 font-family: Tahoma,Verdana,Segoe,sans-serif;
-                font-weight: 300;
+                font-weight: 500;
+                line-height: 1.2em;
                     strong{
                         font-weight: bold;
                         color: black;
@@ -96,10 +127,11 @@ a{
 
             .row{
                 @include flex();
+                margin-top: -5px;
 
                 img{
-                    width: 15px;
-                    height: 15px;
+                    width: 40px;
+                    height: 30px;
                     margin: 0 auto auto 10px;
                 }
 
@@ -121,23 +153,29 @@ a{
 
             .infos{
                 width: 100%;
-                height: 10px;
+                height: 12px;
                 background-color: #ccffff;
                 border: 1px solid #000000;
                 @include flex(row, baseline);
                 margin: 10px auto 0 auto;
-                padding-top: 2px;
+                padding-top: 3px;
                 padding-bottom: 2px;
 
                     .info{
                         @include flex();
                         margin: auto 10px 2px 15px;
 
+
                         .blue{
-                            margin-left: 20px;
+                            margin-left: 30px;
                             color: $blue;
                             font-weight: bold;
+                            margin: -3px auto;
                             font-size: 0.7em;
+                        }
+
+                        .black{
+                            margin: -7px 10px auto auto;
                         }
                     }
             }
@@ -145,6 +183,7 @@ a{
             .bottom{
                 background-image: linear-gradient(180deg, #33ccff 0%, #c2e9fb 100%);
                 padding-top: 10px;
+                margin: 0px auto;
 
                 .details{
                     width: 90%;
@@ -152,37 +191,45 @@ a{
                     @include flex(row, space-around);
 
 
-                    .qr, img{
+                     img{
                         height: 25px;
                         height: 25px;
                         margin-top: -8px;
                     }
 
+                    .qr{
+                        width: 40px;
+                        height: 40px;
+                        margin-top: -2px;
+                        overflow: hidden;
+                    }
                     &__main{
                     display: block;
                         width: 50%;
-                        margin: auto;
-                        height: 30px;
+                        margin: 3px auto;
+                        height: 35px;
                         border: 1px solid black;
                         background-color: #ccffff;
-                        padding-top: 1px;
+                        padding-top: -7px;
                         font-size: 0.7em;
 
 
                         p{
                             font-style: italic;
-                            width: 90%;
+                            width: 100%;
+                            font-size: 0.7em;
                             margin: 1px auto;
                         }
 
                             .strong{
-                                font-weight: bold;
-                                font-size: 1.1em;
+                                font-weight: 900;
+                                font-size: 1em;
                                 font-style: normal;
                             }
 
                             .thin{
                                 font-weight: 300;
+                                font-size: 0.8em;
                             }
                     }
                 }
@@ -190,23 +237,32 @@ a{
                 .black{
                     background-image: linear-gradient(180deg, #33ccff 0%, #c2e9fb 100%);
                     text-align: center;
-                    padding-bottom: 5px;
-                    margin: -5px auto;
+                    padding-bottom: 1px;
+                    margin: 0px auto;
 
                     p{
                         font-weight: bold;
-                        font-size: 0.7em;
+                        font-size: 0.6em;
                         margin-bottom: 2px;
+                        width: 100%;
                     }
                 }
             }
+        }
+
+        .abs{
+            position: absolute;
+            width: 15x;
+            height: 15px;
+            top: 50px;
+            right: 10px;
         }
     }
 
     .form{
         width: 340px;
         display: block;
-        margin: 20px auto;
+        margin: 40px auto;
         border: 1px solid black;
         border-radius: 10px;
         text-align: center;
@@ -220,6 +276,7 @@ a{
 
         h1{
             font-size: 1.6em;
+            color: $blue;
         }
 
         label{
@@ -264,25 +321,30 @@ a{
     .hero{
         height: 100vh;
         display: block;
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
      //   background-image: url("../img/hero1.jpg");
         background: rgb(2,0,36);
 background: url("../img/hero1.jpg"), linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(70,188,222,1) 35%, rgba(0,212,255,1) 100%);
-        padding-top: 40vh;
+        padding-top: 200px;
 
 
         h1{
-            color: purple;
+            color: $main;
             font-weight: 700;
-            font-size: 4em;
+            font-size: 5em;
+            font-style: italic;
 
         }
     }
     .game{
-        height: 150px;
+        height: 200px;
         width: 100%;
         margin: 10px auto;
-        padding-top: 30px;
-        background-color:rgb(142, 212, 226);
+        padding-top: 20px;
+        padding-bottom: 20px;
+        background-color:rgb(69, 183, 206);
         @include flex(column, space-between);
 
         .text{
@@ -290,42 +352,45 @@ background: url("../img/hero1.jpg"), linear-gradient(90deg, rgba(2,0,36,1) 0%, r
         }
 
         .audio{
-
+            margin: 0 auto;
         }
     }
 
     .container{
         .services{
-                .service{
-                    @include flex();
-                    margin: 15px auto;
+               .icons{
+                    height: 100%;
+                    .service{
+                        @include flex();
+                        margin: 15px auto;
 
-                    &__img{
-                        width: 150px;
-                        img{
+                        &__img{
                             width: 150px;
-                            height: 100px;
-                        }
-                    }
-
-                    &__text{
-                        width: 70%;
-                        text-align: left;
-                        padding-top: 5px;
-                        padding-left: 0;
-                        span{
-                            font-weight: bold;
-                            font-size: 2em;
+                            img{
+                                width: 150px;
+                                height: 100px;
+                            }
                         }
 
+                        &__text{
+                            width: 70%;
+                            text-align: left;
+                            padding-top: 5px;
+                            padding-left: 0;
+                            span{
+                                font-weight: bold;
+                                font-size: 2em;
+                            }
 
+
+                        }
                     }
-                }
+               }
 
                 .image{
                     img{
                         width: 90%;
-                        height: 70%;
+                        height: 350px;
                         border-radius: 10px;
                         margin: 10px auto;
                     }
@@ -336,7 +401,7 @@ background: url("../img/hero1.jpg"), linear-gradient(90deg, rgba(2,0,36,1) 0%, r
             @include flex(row, space-between);
            .box{
                 margin: 1px;
-                width: 280px;
+                width: 260px;
                 margin: auto;
                 cursor: pointer;
                 img{
@@ -362,10 +427,16 @@ background: url("../img/hero1.jpg"), linear-gradient(90deg, rgba(2,0,36,1) 0%, r
             }
 
             .map{
-                background-color: black;
-                height: 350px;
+                height: 330px;
                 width: 90%;
-                margin: auto;
+                height: 250px;
+                margin: auto auto 10px auto;
+
+                iframe{
+                    width: 90%;
+                    margin: auto;
+                    height: 100%;
+                }
             }
         }
     }
@@ -374,9 +445,131 @@ background: url("../img/hero1.jpg"), linear-gradient(90deg, rgba(2,0,36,1) 0%, r
 .footer{
     background-color: black;
     height: auto;
-    margin: 15px auto 0 auto;
+    margin: 0px auto 0 auto;
     padding-top: 40px;
     padding-bottom: 20px;
     color: white;
 
 }
+
+  /*responsive for 1024px*/
+  @media screen and (min-width: 1024px) and (max-width: 1279px){
+    .content{
+        .hero{
+            height: 60vh;
+            padding-top: 20%;
+        }
+
+        .container{
+            .ads{
+                .box{
+                    width: 210px;
+
+                    img{
+                        width: 200px;
+                    }
+                }
+            }
+        }
+    }
+  }
+
+    /*responsive for 768px*/
+    @media screen and (min-width: 768px) and (max-width: 1023px){
+        .content{
+            .hero{
+                height: 50vh;
+                padding-top: 150px;
+            }
+
+            .container{
+
+                .ads{
+                    .box{
+                        width: 160px;
+
+                        img{
+                            width: 150px;
+                        }
+                    }
+                }
+            }
+        }
+      }
+
+        /*responsive for 350px*/
+        @media screen and (min-width: 350px) and (max-width: 767px){
+            .content{
+                .hero{
+                    height: 40vh;
+                    background-position: right;
+                    padding-top: 90px;
+
+                    h1{
+                        font-size: 4em;
+                    }
+                }
+
+                .container{
+
+                    .services{
+                       .icons{
+                        .service{
+                            &__img{
+                                width: 90px;
+                                height: 90px;
+
+                                    img{
+                                       width: 80px;
+                                       height: 50px;
+                                    }
+                            }
+
+                            &__text{
+                                line-height: 1em;
+                                width: auto;
+                               margin-left: 5px;
+                               text-align: left;
+                               span{
+                                font-size: 1.4em;
+                               }
+                            }
+                        }
+                       }
+
+                       .image{
+                        width: 300px;
+                        height: 300px;
+
+                        img{
+                            width: 280px;
+                            height: 280px;
+                        }
+                       }
+                    }
+
+                    .ads{
+                        .box{
+                            width: 160px;
+
+                            img{
+                                width: 150px;
+                            }
+                        }
+                    }
+
+                    .book{
+                        .map{
+                            width: 330px;
+                            height: 330px;
+
+                            iframe{
+                                width: 300px;
+                                height: 90%;
+                                margin: 20px auto;
+                            }
+                        }
+                    }
+                }
+            }
+          }

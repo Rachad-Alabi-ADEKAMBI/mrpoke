@@ -1,3 +1,32 @@
+<?php
+include 'api/api.php';
+include 'parts/checkSession.php';
+
+$id = verifyInput($_GET['id']);
+
+$pdo = getConnexion();
+$req = $pdo->prepare('SELECT * from tickets WHERE
+    id = ?');
+$req->execute([$id]);
+$exist = $req->fetch();
+$var = $exist['code'];
+$req->closeCursor();
+
+if (!$exist) { ?> <div class="mt-5">
+    <p class="text-center">
+        Ticket introuvable, merci de vérifier le qr code '
+    </p>
+</div>
+
+<?php exit();} else {$_SESSION['ticket'] = [
+        'id' => $id,
+        'var' => $exist['code'],
+    ];}
+?>
+
+
+
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -8,6 +37,9 @@
 </head>
 
 <body>
+
+    <?php include 'parts/header.php'; ?>
+
     <div class="content"> <br><br>
         <div class="ticket">
             <header class="header">
@@ -35,17 +67,19 @@
 
                 <div class="infos">
                     <div class="info">
-                        Info: <div class="blue">0696109953</div>
+                        <div class="black">Info:</div>
+                        <div class="blue">0696109953</div>
                     </div>
 
                     <div class="info">
-                        Info: <div class="blue">0696610888</div>
+                        <div class="black"> Info:</div>
+                        <div class="blue">0696610888</div>
                     </div>
                 </div>
 
                 <div class="bottom">
                     <div class="details">
-                        <img src="public/img/qr_code_63da66143f8be.png" class='qr' alt="">
+                        <iframe src="qrcode.php?var=<?= $var ?>" class="qr" frameborder="0"></iframe>
 
                         <div class="details__main">
                             <p>
@@ -54,7 +88,7 @@
                             </p>
 
                             <div class="strong">
-                                --- 519645 ---
+                                --<?= $exist['code'] ?>---
                             </div>
 
                             <div class="thin">
@@ -73,8 +107,13 @@
                     </div>
                 </div>
             </main>
+
+            <img src="public/img/logo.png" class="abs" alt="">
         </div>
     </div>
+
+    <?php include 'parts/footer.php'; ?>
+
 </body>
 
 </html>

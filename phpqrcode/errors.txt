@@ -1,0 +1,1362 @@
+2023-02-03 20:43:07: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:43:08: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:48:44: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:48:44: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:48:44: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:48:44: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:48:44: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:48:44: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:48:44: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:48:44: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:48:44: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:48:44: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:48:44: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:48:44: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:48:44: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:48:44: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:48:44: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:48:44: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:48:44: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:48:44: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:48:44: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:48:44: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:48:44: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:48:44: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:48:44: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:48:44: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:48:49: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:48:49: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:48:49: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:48:49: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:48:49: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:48:49: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:48:49: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:48:49: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:48:49: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:48:49: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:48:49: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:48:49: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:48:49: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:48:49: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:48:49: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:48:49: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:48:49: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:48:49: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:48:49: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:48:49: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:48:49: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:48:49: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:48:49: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:48:49: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:49:34: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:49:34: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:49:34: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:49:34: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:49:34: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:49:34: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:49:34: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:49:34: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:49:34: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:49:34: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:49:34: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:49:34: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:49:34: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:49:35: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:49:35: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:49:35: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:49:35: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:49:35: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:49:35: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:49:35: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:49:35: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:49:35: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:49:35: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:49:35: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:49:49: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:49:49: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:49:49: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:49:49: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:49:49: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:49:49: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:49:49: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:49:49: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:49:49: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:49:49: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:49:49: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:49:49: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:49:49: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:49:50: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:49:50: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:49:50: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:49:50: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:49:50: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:49:50: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:49:50: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:49:50: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:49:50: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:49:50: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:49:50: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:50:05: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:50:05: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:50:05: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:50:05: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:50:05: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:50:05: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:50:05: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:50:05: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:50:05: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:50:05: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:50:05: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:50:05: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:50:05: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:50:05: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:50:05: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:50:05: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:50:05: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:50:05: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:50:05: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:50:05: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:50:05: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:50:05: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:50:05: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:50:05: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:53:34: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:53:34: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:53:34: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:53:34: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:53:34: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:53:34: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:53:34: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:53:34: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:53:34: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:53:34: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:53:35: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:53:35: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:53:35: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:53:35: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:53:35: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:53:35: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:53:35: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:53:35: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:53:35: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:53:35: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:53:35: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:53:35: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:53:35: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:53:35: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:55:23: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:55:23: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:55:23: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:55:23: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:55:23: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:55:23: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:55:23: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:55:23: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:55:23: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:55:23: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:55:23: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:55:23: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:55:23: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:55:23: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:55:23: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:55:23: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:55:23: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:55:23: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:55:23: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:55:23: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:55:23: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:55:23: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:55:23: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:55:23: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:56:10: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:56:32: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:56:42: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:56:51: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:56:51: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:56:51: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:56:51: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:56:51: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:56:51: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:56:51: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:56:51: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:56:51: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:56:51: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:56:51: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:56:51: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:56:51: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:56:51: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:56:51: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:56:51: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:56:51: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:56:51: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:56:51: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:56:55: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:57:08: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 20:59:45: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 21:00:00: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 21:01:25: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 21:01:26: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 21:01:26: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 21:01:26: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 21:01:26: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 21:01:26: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 21:01:26: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 21:01:26: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 21:01:26: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 21:01:26: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 21:01:26: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 21:01:26: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 21:01:26: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 21:01:26: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 21:01:26: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 21:01:26: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 21:01:26: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 21:01:26: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 21:01:26: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 21:01:26: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 21:01:26: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 21:01:26: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 21:01:26: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 21:01:26: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 21:01:26: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 21:01:42: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 21:02:17: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 21:02:44: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 21:04:31: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 21:04:40: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+2023-02-03 21:06:01: empty string!!!2023-02-03 21:07:47: empty string!!!2023-02-03 21:08:04: empty string!!!2023-02-03 21:08:46: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/mrpoke/phpqrcode/qrsplit.php</b> on line <b>62</b><br />

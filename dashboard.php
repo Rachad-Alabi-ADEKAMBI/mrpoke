@@ -56,6 +56,8 @@ $query->closeCursor();
 </head>
 
 <body>
+    <?php include 'parts/header.php'; ?>
+
     <div class="content">
         <div class="dashboard text-center">
 
@@ -163,6 +165,8 @@ $query->closeCursor();
 
         </div>
     </div>
+
+    <?php include 'parts/footer.php'; ?>
 </body>
 
 </html>

@@ -56,6 +56,8 @@ $query->closeCursor();
 </head>
 
 <body>
+    <?php include 'parts/header.php'; ?>
+
     <div class="content" id='app'>
         <div class="dashboard">
 
@@ -99,7 +101,7 @@ $query->closeCursor();
 
                             <main class="main">
                                 <p class="top-text">
-                                    Concours du <span>Mardi 14 Février 2023</span>
+                                    Concours du <span>Mardi 14 Janvier 2023</span>
                                 </p>
 
                                 <p class="text">
@@ -117,17 +119,21 @@ $query->closeCursor();
 
                                 <div class="infos">
                                     <div class="info">
-                                        Info: <div class="blue">0696109953</div>
+                                        <div class="black">Info:</div>
+                                        <div class="blue">0696109953</div>
                                     </div>
 
                                     <div class="info">
-                                        Info: <div class="blue">0696610888</div>
+                                        <div class="black"> Info:</div>
+                                        <div class="blue">0696610888</div>
                                     </div>
                                 </div>
 
                                 <div class="bottom">
                                     <div class="details">
-                                        <img src="public/img/qr_code_63da66143f8be.png" class='qr' alt="">
+                                        <iframe src="qrcode.php?var=<?= $article[
+                                            'code'
+                                        ] ?>" class="qr" frameborder="0"></iframe>
 
                                         <div class="details__main">
                                             <p>
@@ -136,7 +142,7 @@ $query->closeCursor();
                                             </p>
 
                                             <div class="strong">
-                                                --- <?= $article['code'] ?> ---
+                                                --<?= $article['code'] ?>---
                                             </div>
 
                                             <div class="thin">
@@ -155,13 +161,15 @@ $query->closeCursor();
                                     </div>
                                 </div>
                             </main>
+
+                            <img src="public/img/logo.png" class="abs" alt="">
                         </div>
                     </a>
                     <?php } ?>
                 </div>
 
                 <a class="btn btn-success mx-auto" href='print.php'>
-                    Imprimer
+                    Tout imprimer
                 </a>
             </div>
 
@@ -195,6 +203,9 @@ $query->closeCursor();
 
         </div>
     </div>
+
+    <?php include 'parts/footer.php'; ?>
+
 
 </body>
 
