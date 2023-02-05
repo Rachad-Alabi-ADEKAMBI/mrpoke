@@ -88,15 +88,17 @@ $query->closeCursor();
                 </div>
             </div>
 
-            <div class="tickets mt-2">
+            <div class="tickets mt-2 text-center mx-auto">
                 <div class="tickets__content">
                     <?php foreach ($articles as $article) { ?>
-                    <a href="ticket.php?id=<?= $article['id'] ?>">
-                        <div class="ticket">
+                    <a href="ticket.php?id=<?= $article[
+                        'id'
+                    ] ?>" class="mx-auto text-center">
+                        <div class="ticket mx-auto">
                             <header class="header">
                                 <img src="public/img/food.png" alt="" class='food'>
                                 <img src="public/img/bandeau.png" alt="" class='flag'>
-                                <img src="public/img/food.png" alt="" class='food'>
+                                <img src="public/img/icon-food.png" alt="" class='food'>
                             </header>
 
                             <main class="main">
@@ -119,13 +121,17 @@ $query->closeCursor();
 
                                 <div class="infos">
                                     <div class="info">
-                                        <div class="black">Info:</div>
+                                        <div class="black">Info</div>
                                         <div class="blue">0696109953</div>
                                     </div>
 
                                     <div class="info">
-                                        <div class="black"> Info:</div>
+                                        <div class="black"> Info</div>
                                         <div class="blue">0696610888</div>
+                                    </div>
+
+                                    <div class="info">
+                                        <div class="black"> Info</div>
                                     </div>
                                 </div>
 

@@ -29,11 +29,16 @@
                     Contact
                 </h3> <br>
 
-                <p class="text text-left">
-                    <i class="bi bi-telephone"></i> +596 696 10 99 35 <br>
-                    <i class="bi bi-facebook"></i> @mrpoke972 <br>
-                    <i class="bi bi-instagram"></i> @mrpoke972 <br>
-                    <i class="bi bi-envelope"></i> contact@misterpoke972.com <br>
+                <p class="text text-left text-white">
+                    <a href="tel:+596 696 10 99 35"><i class="bi bi-telephone"></i> +596 696 10 99 35</a> <br>
+                    <a href="https://web.facebook.com/profile.php?id=100089416614931"> <i class="bi bi-facebook"></i>
+                        @mrpoke972</a> <br>
+                    <a href="https://www.instagram.com/misterpoke972/"><i class="bi bi-instagram"></i>
+                        @mrpoke972</a>
+                    <br>
+                    <a href="mailto:contact@misterpoke972.com"><i class="bi bi-envelope"></i>
+                        contact@misterpoke972.com
+                    </a> <br>
 
                 </p>
             </div>

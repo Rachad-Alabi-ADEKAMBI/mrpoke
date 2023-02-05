@@ -13,9 +13,9 @@ function getConnexion()
 //production
 /*
 $pdo = new PDO(
-    'mysql:dbname=hdwu6055_servicom;host=localhost',
-    'hdwu6055_ygyphi',
-    'servicom92'
+    'mysql:dbname=hdwu6055_mrpoke;host=localhost',
+    'hdwu6055_mrpoke',
+    'mrpoke92i'
 );
 
 function getConnexion()

@@ -1,3 +1,5 @@
+<?php
+session_start(); ?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -16,7 +18,7 @@
                 Mister Poke
             </h1>
 
-            <p class="text text-black  text-center bold">
+            <p class="text text-white  text-center bold">
                 Cuisine Hawaïenne
             </p>
 
@@ -30,7 +32,7 @@
                 <div class=" col-sm-12 col-md-12 col-lg-6 bg-light  icons mt-2">
                     <div class="service">
                         <div class="service__img">
-                            <img src="public/img/icon-service1.jpg" alt="">
+                            <img src="public/img/icon-service3.jpg" alt="">
                         </div>
 
                         <div class="service__text text-left">
@@ -48,7 +50,7 @@
 
                     <div class="service">
                         <div class="service__img">
-                            <img src="public/img/icon-service1.jpg" alt="">
+                            <img src="public/img/icon-service2.jpg" alt="">
                         </div>
 
                         <div class="service__text">
@@ -57,7 +59,7 @@
                             </span> <br>
 
                             <p class="text text-grey text-left">
-                                Poisson et légumes frais
+                                Persnnel qualifié et accueillant
                             </p>
                         </div>
 
@@ -65,7 +67,7 @@
 
                     <div class="service">
                         <div class="service__img">
-                            <img src="public/img/icon-service3.jpg" alt="">
+                            <img src="public/img/icon-service4.jpg" alt="">
                         </div>
 
                         <div class="service__text">
@@ -74,15 +76,15 @@
                             </span> <br>
 
                             <p class="text text-grey text-left">
-                                A partir de 12 eur
+                                A partir de 12 euros
                             </p>
                         </div>
 
                     </div>
                 </div>
 
-                <div class="col-sm-12 col-md-12 col-lg-6 text-center image mt-2">
-                    <img src="public/img/services1.jpg" class="mx-auto" alt="">
+                <div class="col-sm-12 col-md-12 col-lg-6 text-center image mt-2 mx-auto">
+                    <img src="public/img/services1.jpg" class="mx-auto text-center" alt="">
                 </div>
             </div>
         </div>
@@ -109,7 +111,7 @@
                         <div class="carousel-item active">
                             <div class="row">
                                 <div class="col-4">
-                                    <img class="d-block w-100" src="public/img/food12.jpg"
+                                    <img class="d-block w-100" src="public/img/services1.jpg"
                                         alt="specialite hawaienne en martinique">
                                 </div>
 
@@ -179,10 +181,12 @@
                 <div class="col-sm-12  col-md-12 col-lg-4">
                     <div class="container">
                         <div class="row">
-                            <img src="public/img/hawai1.jpg" alt="" class="col-6">
-                            <img src="public/img/hawai2.jpg" alt="" class="col-6">
-                            <img src="public/img/hawai3.jpg" alt="" class="col-6">
-                            <img src="public/img/hawai4.jpg" alt="" class="col-6">
+                            <div class="images">
+                                <img src="public/img/hawai1.jpg" alt="" class="">
+                                <img src="public/img/hawai2.jpg" alt="" class="">
+                                <img src="public/img/hawai3.jpg" alt="" class="">
+                                <img src="public/img/hawai4.jpg" alt="" class="">
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -193,17 +197,17 @@
                     </h2>
 
                     <p class="text">
-                        Mrpoke972 est un restaurant spécialisé dans la vente du Poke,
-                        un plat hawaïen traditionnel. Ce restaurant propose des plats
-                        frais et savoureux, préparés avec des ingrédients de qualité
-                        supérieure pour garantir une expérience culinaire inoubliable. <br>
-                        Le Poke (prononcez Pokeii)est un mélange de poisson cru, de riz et de légumes,
-                        le tout assaisonné avec des sauces délicieuses. Outre le Poke,
-                        le menu de Mrpoke972 propose également une variété de salades, de fruits de mer et de soupes,
-                        chacun préparé avec soin et passion. <br>
-                        Que vous soyez à la recherche d'un délicieux déjeuner ou d'un dîner en soirée,
-                        Mrpoke972 est l'endroit idéal pour déguster un repas sain et nourrissant. Alors n'hésitez plus
-                        et venez découvrir les saveurs hawaïennes chez Mrpoke972!
+                        Venez savourer la cuisine Hawaïenne dans votre restaurant Mister Poke à Fort de France et
+                        Schoelcher <br>
+                        Un Poke Hawaïen est un mélange coloré et délicieux de poisson cru coupé en cubes, mariné avec
+                        des ingrédients frais et épicés pour un goût authentique de Hawaï. Ce plat est souvent préparé
+                        avec
+                        du Thon frais, mais peut également être fait avec d'autres types de poisson, et se mélange
+                        parfaitement
+                        avec des Oignons verts, de l'Ail, du Gingembre, de la sauce Soja et d'autres herbes et épices.
+                        Servi avec du Riz, des Algues et d'autres accompagnements, le Poke est une combinaison
+                        parfaite de saveurs et de textures, idéale pour ceux qui recherchent une option saine et
+                        délicieuse.
                     </p>
                 </div>
             </div>
@@ -261,7 +265,7 @@
                     <div class="map mx-auto">
                         <iframe
                             src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2990.274257380938!2d-70.56068388481569!3d41.45496659976631!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e52963ac45bbcb%3A0xf05e8d125e82af10!2sDos%20Mas!5e0!3m2!1sen!2sus!4v1671220374408!5m2!1sen!2sus"
-                            style="border:0;" allowfullscreen="" loading="lazy"
+                            style="border:0;" class="mx-auto" allowfullscreen="" loading="lazy"
                             referrerpolicy="no-referrer-when-downgrade"></iframe>
                     </div>
                 </div>

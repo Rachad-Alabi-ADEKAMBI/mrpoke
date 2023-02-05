@@ -16,9 +16,9 @@ html, body{
 box-sizing: border-box;
 padding: 0;
 margin: 0;
-font-family: 'Poppins', sans-serif;
+//font-family: 'Poppins', sans-serif;
 background-color: whitesmoke;
-
+font-family: 'EB Garamond';
 }
 
 .btn-primary{
@@ -49,6 +49,14 @@ background-color: whitesmoke;
 
 .text-white{
     color: rgb(189, 196, 209);
+
+    a{
+        color: white
+    }
+
+    a:hover{
+        color: $main;
+    }
 }
 
 .bold{
@@ -84,6 +92,7 @@ h2{
 
         .header{
             @include flex();
+            padding: 5px;
 
             .food{
                 width: 20px;
@@ -91,7 +100,7 @@ h2{
             }
 
             .flag{
-                height: 10px;
+                height: 15px;
                 margin-top: 0;
                 width: 50%;
             }
@@ -117,8 +126,11 @@ h2{
             .text{
                 margin: 7px auto;
                 font-family: Tahoma,Verdana,Segoe,sans-serif;
-                font-weight: 500;
+                font-weight: 400;
                 line-height: 1.2em;
+                margin-left: 5px;
+                margin-right: 5px;
+                text-align: center;
                     strong{
                         font-weight: bold;
                         color: black;
@@ -131,18 +143,18 @@ h2{
 
                 img{
                     width: 40px;
-                    height: 30px;
+                    height: 20px;
                     margin: 0 auto auto 10px;
                 }
 
                 .box{
-                    height: 15px;
+                    height: 20px;
                     width: 80%;
                   //  padding-top: 5px;
                     left: 0;
                     margin: auto -15px auto auto;
                     color: $red;
-                    font-size: 0.9em;
+                    font-size: 1.2em;
                     text-align: center;
                     font-weight: bold;
                     border-radius: 15px;
@@ -153,7 +165,7 @@ h2{
 
             .infos{
                 width: 100%;
-                height: 12px;
+                height: 14px;
                 background-color: #ccffff;
                 border: 1px solid #000000;
                 @include flex(row, baseline);
@@ -171,7 +183,7 @@ h2{
                             color: $blue;
                             font-weight: bold;
                             margin: -3px auto;
-                            font-size: 0.7em;
+                            font-size: 0.8em;
                         }
 
                         .black{
@@ -182,7 +194,7 @@ h2{
 
             .bottom{
                 background-image: linear-gradient(180deg, #33ccff 0%, #c2e9fb 100%);
-                padding-top: 10px;
+                padding-top: 15px;
                 margin: 0px auto;
 
                 .details{
@@ -192,21 +204,23 @@ h2{
 
 
                      img{
-                        height: 25px;
-                        height: 25px;
-                        margin-top: -8px;
+                        height: 4px;
+                        height: 40px;
+                        margin-top: -12px;
                     }
 
                     .qr{
-                        width: 40px;
-                        height: 40px;
-                        margin-top: -2px;
+                        width: 35px;
+                        height: 35px;
+                        position: absolute;
+                        top: 130px;
+                        left: 10px;
                         overflow: hidden;
                     }
                     &__main{
                     display: block;
                         width: 50%;
-                        margin: 3px auto;
+                        margin: 3px auto auto 60px;
                         height: 35px;
                         border: 1px solid black;
                         background-color: #ccffff;
@@ -238,11 +252,11 @@ h2{
                     background-image: linear-gradient(180deg, #33ccff 0%, #c2e9fb 100%);
                     text-align: center;
                     padding-bottom: 1px;
-                    margin: 0px auto;
+                    margin: 2px auto;
 
                     p{
-                        font-weight: bold;
-                        font-size: 0.6em;
+                        font-weight: 900;
+                        font-size: 0.7em;
                         margin-bottom: 2px;
                         width: 100%;
                     }
@@ -252,21 +266,22 @@ h2{
 
         .abs{
             position: absolute;
-            width: 15x;
-            height: 15px;
+            width: 10px;
+            height: 10px;
             top: 50px;
-            right: 10px;
+            right: 5px;
         }
     }
 
     .form{
-        width: 340px;
+        width: 300px;
         display: block;
         margin: 40px auto;
         border: 1px solid black;
         border-radius: 10px;
         text-align: center;
         padding-bottom: 10px;
+        padding-left: 10px;
 
         img{
             width: 40px;
@@ -283,6 +298,10 @@ h2{
             margin: 15px auto;
             text-align: left;
             padding-left: 0;
+
+            input{
+                width: 250px;
+            }
         }
     }
 
@@ -327,15 +346,21 @@ h2{
      //   background-image: url("../img/hero1.jpg");
         background: rgb(2,0,36);
 background: url("../img/hero1.jpg"), linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(70,188,222,1) 35%, rgba(0,212,255,1) 100%);
-        padding-top: 200px;
+background-image:
+linear-gradient(rgba(43, 49, 139, 0.548),
+rgba(15, 35, 153, 0.589)),
+url("../img/hero1.jpg");
+
+    padding-top: 200px;
+    color: white;
 
 
         h1{
             color: $main;
+            color: white;
             font-weight: 700;
             font-size: 5em;
             font-style: italic;
-
         }
     }
     .game{
@@ -412,7 +437,21 @@ background: url("../img/hero1.jpg"), linear-gradient(90deg, rgba(2,0,36,1) 0%, r
 
         }
 
+        .about{
+            .row{
+             .images{
+                 @include flex();
+                 height: auto;
+                 flex-wrap: wrap;
+                 img{
+                     width: 100px;
+                     height: 90px;
+                     margin: 10px;
+                 }
+             }
+            }
 
+         }
 
         .book{
             &__form{
@@ -499,9 +538,23 @@ background: url("../img/hero1.jpg"), linear-gradient(90deg, rgba(2,0,36,1) 0%, r
 
         /*responsive for 350px*/
         @media screen and (min-width: 350px) and (max-width: 767px){
+            .pages{
+                width: 90%;
+                margin: 10px auto 0 auto;
+                overflow: hidden;
+
+                .pagination{
+                    margin: auto;
+                   ul{
+                    li{
+                        display: block;
+                    }
+                   }
+                }
+            }
             .content{
                 .hero{
-                    height: 40vh;
+                    height: 450px;
                     background-position: right;
                     padding-top: 90px;
 
@@ -515,6 +568,7 @@ background: url("../img/hero1.jpg"), linear-gradient(90deg, rgba(2,0,36,1) 0%, r
                     .services{
                        .icons{
                         .service{
+                            justify-content: start;
                             &__img{
                                 width: 90px;
                                 height: 90px;
@@ -528,10 +582,11 @@ background: url("../img/hero1.jpg"), linear-gradient(90deg, rgba(2,0,36,1) 0%, r
                             &__text{
                                 line-height: 1em;
                                 width: auto;
-                               margin-left: 5px;
+                               margin-left: 0px;
                                text-align: left;
                                span{
                                 font-size: 1.4em;
+                                text-align: left;
                                }
                             }
                         }
@@ -546,6 +601,22 @@ background: url("../img/hero1.jpg"), linear-gradient(90deg, rgba(2,0,36,1) 0%, r
                             height: 280px;
                         }
                        }
+                    }
+
+                    .about{
+                       .row{
+                        .images{
+                            @include flex();
+                            height: auto;
+                            flex-wrap: wrap;
+                            img{
+                                width: 100px;
+                                height: 90px;
+                                margin: 10px;
+                            }
+                        }
+                       }
+
                     }
 
                     .ads{
@@ -570,6 +641,8 @@ background: url("../img/hero1.jpg"), linear-gradient(90deg, rgba(2,0,36,1) 0%, r
                             }
                         }
                     }
+
+
                 }
             }
           }

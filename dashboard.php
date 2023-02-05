@@ -94,41 +94,43 @@ $query->closeCursor();
                             </div>
 
                             <div class="card-body">
-                                <table class="table table-bordered">
-                                    <tr>
-                                        <th>Date</th>
-                                        <th>Nom et prénoms</th>
-                                        <th>Téléphone</th>
-                                        <th>Ticket</th>
-                                    </tr>
+                                <?php if ($numberOfPages == 0) { ?>
+                                <p class="text-center">
+                                    Aucune inscription pour l'instant
+                                </p>
+                                <?php } else { ?>
+                                <div class="table-responsive-sm">
+                                    <table class="table table-bordered">
+                                        <tr>
+                                            <th>Nom et prénoms</th>
+                                            <th>Téléphone</th>
+                                            <th>Ticket</th>
+                                        </tr>
 
-                                    <?php foreach ($articles as $article) { ?>
-                                    <tr>
-                                        <td data-label='Date inscription'><?php
-                                        $originalDate =
-                                            $article['date_of_insertion'];
-                                        echo date(
-                                            'd/m/Y',
-                                            strtotime($originalDate)
-                                        );
-                                        ?>
-                                        </td>
-                                        <td data-label="Nom et prénoms">
-                                            <?php echo "{$article['first_name']} {$article['last_name']} "; ?></td>
-                                        <td data-label="Téléphone"><?= $article[
-                                            'phone_number'
-                                        ] ?></td>
-                                        <td data-label="Ticket"><?= $article[
-                                            'code'
-                                        ] ?></td>
-                                    </tr>
-                                    <?php } ?>
+                                        <?php foreach (
+                                            $articles
+                                            as $article
+                                        ) { ?>
+                                        <tr>
+                                            <td data-label="Nom et prénoms">
+                                                <?php echo "{$article['first_name']} {$article['last_name']} "; ?></td>
+                                            <td data-label="Téléphone"><?= $article[
+                                                'phone_number'
+                                            ] ?></td>
+                                            <td data-label="Ticket"><?= $article[
+                                                'code'
+                                            ] ?></td>
+                                        </tr>
+                                        <?php } ?>
 
-                                </table>
+                                    </table>
+                                </div>
+                                <?php } ?>
                             </div>
                         </div>
                     </div>
                 </div>
+
             </div>
 
             <div class="container">

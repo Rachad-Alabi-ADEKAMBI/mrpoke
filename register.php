@@ -45,41 +45,50 @@ if ($used) { ?>
 </head>
 
 <body>
+    <?php include 'parts/header.php'; ?>
     <div class="content">
-        <form class="form" method="POST" action="api/api.php?action=register">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12 col-md-4 mx-auto">
+                    <form class="form" method="POST" action="api/api.php?action=register">
 
-            <img src="public/img/logo.png" alt="">
+                        <img src="public/img/logo.png" alt="">
 
-            <h1>
-                Inscription au jeu concours
-            </h1>
+                        <h1>
+                            Inscription au jeu concours
+                        </h1>
 
-            <label for="">
-                Ticket: <span><?= $var ?></span>
-            </label>
+                        <label for="">
+                            Ticket: <span><?= $var ?></span>
+                        </label>
 
-            <label for="">
-                Nom:
-                <input type="text" required v-model='first_name' name='first_name'>
-            </label>
+                        <label for="">
+                            Nom:
+                            <input type="text" required v-model='first_name' name='first_name'>
+                        </label>
 
-            <label for="">
-                Prénoms:
-                <input type="text" required v-model='last_name' name='last_name'>
-            </label>
+                        <label for="">
+                            Prénoms:
+                            <input type="text" required v-model='last_name' name='last_name'>
+                        </label>
 
-            <label for="">
-                Téléphone:
-                <input type="number" required v-model='phone' name='phone_number'
-                    onkeyup="if(this.value<0){this.value= this.value * -1}">
-            </label>
+                        <label for="">
+                            Téléphone:
+                            <input type="number" required v-model='phone' name='phone_number'
+                                onkeyup="if(this.value<0){this.value= this.value * -1}">
+                        </label>
 
-            <br>
-            <button class="btn btn-primary" type="submit">
-                Inscription
-            </button>
-        </form>
+                        <br>
+                        <button class="btn btn-primary" type="submit">
+                            Inscription
+                        </button>
+                    </form>
+                </div>
+            </div>
+        </div>
     </div>
+
+    <?php include 'parts/footer.php'; ?>
 
     <script>
     const {
