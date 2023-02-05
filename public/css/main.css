@@ -63,11 +63,11 @@ h2 {
   font-size: 0.7em;
   position: relative;
   height: 192px;
+  overflow: hidden;
   margin: auto;
   display: block;
   border: 1px solid black;
-  overflow: hidden;
-  background-image: linear-gradient(0deg, #33ccff 0%, #ccffff 100%);
+  background: linear-gradient(0deg, #33ccff 0%, #ccffff 100%);
 }
 .content .ticket .header {
   display: flex;
@@ -183,15 +183,13 @@ h2 {
 .content .ticket .main .bottom .details .qr {
   width: 35px;
   height: 35px;
-  position: absolute;
-  top: 130px;
+  top: 120px;
   left: 10px;
-  overflow: hidden;
 }
 .content .ticket .main .bottom .details__main {
   display: block;
   width: 50%;
-  margin: 3px auto auto 60px;
+  margin: 3px auto;
   height: 35px;
   border: 1px solid black;
   background-color: #ccffff;
@@ -229,8 +227,8 @@ h2 {
   position: absolute;
   width: 10px;
   height: 10px;
-  top: 50px;
-  right: 5px;
+  top: 40px;
+  right: 3px;
 }
 .content .form {
   width: 300px;
@@ -436,6 +434,10 @@ h2 {
 }
 /*responsive for 350px*/
 @media screen and (min-width: 350px) and (max-width: 767px) {
+  .qr {
+    width: 35px;
+    height: 35px;
+  }
   .pages {
     width: 90%;
     margin: 10px auto 0 auto;

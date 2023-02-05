@@ -10,22 +10,6 @@ function getConnexion()
     );
 }
 
-//production
-/*
-$pdo = new PDO(
-    'mysql:dbname=hdwu6055_mrpoke;host=localhost',
-    'hdwu6055_mrpoke',
-    'mrpoke92i'
-);
-
-function getConnexion()
-{
-    return new PDO(
-        'mysql:host=localhost; dbname=hdwu6055_servicom; charset=UTF8',
-        'hdwu6055_ygyphi',
-        'servicom92'
-    );
-}*/
 $error = ['error' => false];
 $action = '';
 

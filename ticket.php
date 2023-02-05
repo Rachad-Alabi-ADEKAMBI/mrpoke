@@ -36,7 +36,7 @@ if (!$exist) { ?> <div class="mt-5">
     <title>MrPoke - Ticket</title>
 </head>
 
-<body>
+<body onload="">
 
     <?php include 'parts/header.php'; ?>
 
@@ -83,7 +83,8 @@ if (!$exist) { ?> <div class="mt-5">
 
                 <div class="bottom">
                     <div class="details">
-                        <iframe src="qrcode.php?var=<?= $var ?>" class="qr" frameborder="0"></iframe>
+                        <iframe scrolling="no" frameborder="0" style="height: 30px; width: 30px"
+                            src="qrcode.php?var=<?= $var ?>" class="qr"></iframe>
 
                         <div class="details__main">
                             <p>
