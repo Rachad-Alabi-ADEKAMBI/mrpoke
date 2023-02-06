@@ -176,20 +176,22 @@ h2 {
   justify-content: space-around;
 }
 .content .ticket .main .bottom .details img {
-  height: 4px;
-  height: 40px;
+  height: 35px;
+  height: 35px;
   margin-top: -12px;
 }
+.content .ticket .main .bottom .details .sample,
 .content .ticket .main .bottom .details .qr {
   width: 35px;
   height: 35px;
-  top: 120px;
   left: 10px;
+  position: absolute;
+  top: 135px;
 }
 .content .ticket .main .bottom .details__main {
   display: block;
   width: 50%;
-  margin: 3px auto;
+  margin: 3px auto auto 65px;
   height: 35px;
   border: 1px solid black;
   background-color: #ccffff;
@@ -434,9 +436,10 @@ h2 {
 }
 /*responsive for 350px*/
 @media screen and (min-width: 350px) and (max-width: 767px) {
-  .qr {
-    width: 35px;
-    height: 35px;
+  .sample {
+    visibility: visible;
+    position: absolute;
+    display: block;
   }
   .pages {
     width: 90%;
@@ -457,8 +460,15 @@ h2 {
   .content .hero h1 {
     font-size: 4em;
   }
+  .content .container .services .icons {
+    text-align: center;
+    margin: auto;
+  }
   .content .container .services .icons .service {
     justify-content: start;
+    margin: auto;
+    width: 90%;
+    padding-top: 5px;
   }
   .content .container .services .icons .service__img {
     width: 90px;
@@ -470,7 +480,7 @@ h2 {
   }
   .content .container .services .icons .service__text {
     line-height: 1em;
-    width: auto;
+    width: auto 5px;
     margin-left: 0px;
     text-align: left;
   }

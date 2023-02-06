@@ -83,8 +83,7 @@ if (!$exist) { ?> <div class="mt-5">
 
                 <div class="bottom">
                     <div class="details">
-                        <iframe scrolling="no" frameborder="0" style="height: 30px; width: 30px"
-                            src="qrcode.php?var=<?= $var ?>" class="qr"></iframe>
+                        <img src="public/img/qr-sample.jpg" class="sample" alt="" style="height: 30px; width: 30px">
 
                         <div class="details__main">
                             <p>

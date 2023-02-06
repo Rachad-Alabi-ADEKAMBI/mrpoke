@@ -137,10 +137,8 @@ $query->closeCursor();
 
                                 <div class="bottom">
                                     <div class="details">
-                                        <iframe src="qrcode.php?var=<?= $article[
-                                            'code'
-                                        ] ?>" class="qr" frameborder="0"></iframe>
-
+                                        <img src="public/img/qr-sample.jpg" class="sample" alt=""
+                                            style="height: 30px; width: 30px">
                                         <div class="details__main">
                                             <p>
                                                 Votre numéro de participation:

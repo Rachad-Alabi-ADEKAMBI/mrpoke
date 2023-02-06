@@ -41,7 +41,7 @@ session_start(); ?>
                             </span> <br>
 
                             <p class="text text-grey">
-                                Poisson et légumes frais
+                                Poissons et légumes frais
                             </p>
                         </div>
 
@@ -59,7 +59,7 @@ session_start(); ?>
                             </span> <br>
 
                             <p class="text text-grey text-left">
-                                Persnnel qualifié et accueillant
+                                Personnel qualifié et dévoué
                             </p>
                         </div>
 
@@ -76,7 +76,7 @@ session_start(); ?>
                             </span> <br>
 
                             <p class="text text-grey text-left">
-                                A partir de 12 euros
+                                Livraison offerte quelque soit le montant
                             </p>
                         </div>
 
