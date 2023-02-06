@@ -1,4 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+@import url('https://fonts.cdnfonts.com/css/cooper-black');
+@import url('https://fonts.cdnfonts.com/css/goudy-old-style');
+@import url('https://fonts.cdnfonts.com/css/maximum-impact');
 
 $red:  #ff0000;
 $blue: #000099;
@@ -36,6 +39,7 @@ font-family: 'EB Garamond';
 .text{
     line-height: 2em;
     text-align: justify;
+
 }
 
 .text-black{
@@ -116,8 +120,8 @@ h2{
 
                 margin: -10px auto;
                 font-weight: bold;
-                font-family: Tahoma,Verdana,Segoe,sans-serif;
-
+                font-family: 'Cooper Black', sans-serif;
+            font-family: italic;
                 span{
                     color: $red;
                 }
@@ -170,8 +174,9 @@ h2{
                 border: 1px solid #000000;
                 @include flex(row, baseline);
                 margin: 10px auto 0 auto;
-                padding-top: 3px;
+                padding-top: 6px;
                 padding-bottom: 2px;
+                font-family: 'Goudy Old Style', sans-serif;
 
                     .info{
                         @include flex();
@@ -182,7 +187,7 @@ h2{
                             margin-left: 30px;
                             color: $blue;
                             font-weight: bold;
-                            margin: -3px auto;
+                            margin: -5px auto;
                             font-size: 0.8em;
                         }
 
@@ -237,12 +242,14 @@ h2{
                         }
 
                             .strong{
-                                font-weight: 900;
+                                font-weight: 400;
                                 font-size: 1em;
                                 font-style: normal;
+                                font-family: 'Maximum Impact', sans-serif;
                             }
 
                             .thin{
+                                font-family: 'Goudy Old Style', sans-serif;
                                 font-weight: 300;
                                 font-size: 0.8em;
                             }
@@ -256,10 +263,12 @@ h2{
                     margin: 2px auto;
 
                     p{
-                        font-weight: 900;
-                        font-size: 0.7em;
+                        font-weight: 200;
+                        font-size: 0.6em;
                         margin-bottom: 2px;
                         width: 100%;
+                        font-family: 'Cooper Black', sans-serif;
+
                     }
                 }
             }
@@ -269,7 +278,7 @@ h2{
             position: absolute;
             width: 10px;
             height: 10px;
-            top: 40px;
+            top: 35px;
             right: 3px;
         }
     }

@@ -1,6 +1,6 @@
-RewriteEngine on
+wRewriteEngine on
 
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 
-RewriteRule ^(.*)$ index.php?demande=$1
+RewriteRule ^(.*)$ index.php?demande=$1w

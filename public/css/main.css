@@ -1,4 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap");
+@import url("https://fonts.cdnfonts.com/css/cooper-black");
+@import url("https://fonts.cdnfonts.com/css/goudy-old-style");
+@import url("https://fonts.cdnfonts.com/css/maximum-impact");
 html, body {
   box-sizing: border-box;
   padding: 0;
@@ -93,7 +96,8 @@ h2 {
   width: 80%;
   margin: -10px auto;
   font-weight: bold;
-  font-family: Tahoma, Verdana, Segoe, sans-serif;
+  font-family: "Cooper Black", sans-serif;
+  font-family: italic;
 }
 .content .ticket .main .top-text span {
   color: #ff0000;
@@ -144,8 +148,9 @@ h2 {
   flex-direction: row;
   justify-content: baseline;
   margin: 10px auto 0 auto;
-  padding-top: 3px;
+  padding-top: 6px;
   padding-bottom: 2px;
+  font-family: "Goudy Old Style", sans-serif;
 }
 .content .ticket .main .infos .info {
   display: flex;
@@ -157,7 +162,7 @@ h2 {
   margin-left: 30px;
   color: #000099;
   font-weight: bold;
-  margin: -3px auto;
+  margin: -5px auto;
   font-size: 0.8em;
 }
 .content .ticket .main .infos .info .black {
@@ -205,11 +210,13 @@ h2 {
   margin: 1px auto;
 }
 .content .ticket .main .bottom .details__main .strong {
-  font-weight: 900;
+  font-weight: 400;
   font-size: 1em;
   font-style: normal;
+  font-family: "Maximum Impact", sans-serif;
 }
 .content .ticket .main .bottom .details__main .thin {
+  font-family: "Goudy Old Style", sans-serif;
   font-weight: 300;
   font-size: 0.8em;
 }
@@ -220,16 +227,17 @@ h2 {
   margin: 2px auto;
 }
 .content .ticket .main .bottom .black p {
-  font-weight: 900;
-  font-size: 0.7em;
+  font-weight: 200;
+  font-size: 0.6em;
   margin-bottom: 2px;
   width: 100%;
+  font-family: "Cooper Black", sans-serif;
 }
 .content .ticket .abs {
   position: absolute;
   width: 10px;
   height: 10px;
-  top: 40px;
+  top: 35px;
   right: 3px;
 }
 .content .form {
